@@ -1,0 +1,11 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "melmac24",
+        "database": "backend"
+    },
+    "server": {
+        "port": 8080
+    }
+}
